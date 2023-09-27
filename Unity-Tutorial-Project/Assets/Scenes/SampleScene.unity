@@ -245,6 +245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d45fa1ddabdddeb45a34fb58e870b787, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  editorString: Teamwork makes the dreamwork!
 --- !u!4 &1996240837
 Transform:
   m_ObjectHideFlags: 0
